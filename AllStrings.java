@@ -42,6 +42,7 @@ public class AllStrings
     
     static void generate(String s, String sb)
     {
+        System.out.println("This comment is in generate Function");
         count ++;
         if(s.length()==0)
         {
