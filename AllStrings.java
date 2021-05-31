@@ -56,6 +56,7 @@ public class AllStrings
     
     static void generateSubsequence(String s)
     {
+        System.out.println("This comment is in generateSubsequence Function");
         String sb = new String();
         generate(s, sb);
     }
