@@ -42,7 +42,6 @@ public class AllStrings
     
     static void generate(String s, String sb)
     {
-        System.out.println("This comment is in generate Function");
         count ++;
         if(s.length()==0)
         {
@@ -57,7 +56,6 @@ public class AllStrings
     
     static void generateSubsequence(String s)
     {
-        System.out.println("This comment is in generateSubsequence Function");
         String sb = new String();
         generate(s, sb);
     }
