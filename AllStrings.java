@@ -57,7 +57,7 @@ public class AllStrings
     static void generateSubsequence(String s)
     {
         ///comement added
-        System.out.println("My nam is Dilshad and i have written this file");
+        System.out.println("My name is Dilshad and i have written this file");
         String sb = new String();
         generate(s, sb);
     }
